@@ -45,4 +45,4 @@ current_month_abbr = calendar.month_abbr[current_month_number] #get the abbrevia
 if month.upper() == current_month.upper() or month.upper() == current_month_abbr.upper():
     print('Happy birthday month!')
 
-#go to strftime library for different method 
+#note to self: go to strftime library for different method 
